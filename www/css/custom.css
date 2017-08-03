@@ -1,0 +1,24 @@
+.row-centered {
+    text-align:center!important;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+.score {
+	vertical-align: top;
+}
+.text-center{
+	text-align:center!important;
+}
+.centerThis {
+	margin-left: auto;
+	margin-right: auto;
+}
+.bigThis {
+	font-size: 2em;
+}
